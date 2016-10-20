@@ -35,10 +35,10 @@
     </repositories>
 
 	<scm>
-		<connection>scm:git:git://github.com/emilio2hd/test-release.git</connection>
-		<developerConnection>scm:git:git@github.com:emilio2hd/test-release.git</developerConnection>
-		<url>http://github.com/emilio2hd/test-release</url>
-		<tag>v1.0.0</tag>
+		<connection>scm:git:git://github.com/viiniiciius/test-release.git</connection>
+		<developerConnection>scm:git:git@github.com:viiniiciius/test-release.git</developerConnection>
+		<url>http://github.com/viiniiciius/test-release</url>
+		<tag>HEAD</tag>
 	</scm>
 
     <dependencies>
