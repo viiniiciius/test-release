@@ -37,7 +37,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:viiniiciius/test-release.git</connection>
 		<developerConnection>scm:git:git@github.com:viiniiciius/test-release.git</developerConnection>
-		<url>http://github.com/viiniiciius/test-release</url>
+		<url>git@github.com:viiniiciius/test-release.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
