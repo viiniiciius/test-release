@@ -3,7 +3,7 @@
     <groupId>my.groupid</groupId>
     <artifactId>my-artifactId</artifactId>
     <packaging>war</packaging>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <name>Spring MVC Application</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -38,7 +38,7 @@
 		<connection>scm:git:git://github.com/viiniiciius/test-release.git</connection>
 		<developerConnection>scm:git:git@github.com:viiniiciius/test-release.git</developerConnection>
 		<url>http://github.com/viiniiciius/test-release</url>
-		<tag>HEAD</tag>
+		<tag>v1.0.1</tag>
 	</scm>
 
     <dependencies>
